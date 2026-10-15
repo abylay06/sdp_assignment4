@@ -1,0 +1,3 @@
+interface IPart {
+    void work();
+}
