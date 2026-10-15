@@ -12,6 +12,6 @@ public class ProgrammingLanguageFacade {
         semanticAnalyzer.work();
         optimizer.work();
         codeGenerator.work();
-        Sysetm.out.println("Compilation ends");
+        System.out.println("Compilation ends");
     }
 }
